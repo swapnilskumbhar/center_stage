@@ -1,6 +1,7 @@
 # Center Stage
 
-This repo contains my implementation of center stage feature from apple can be found <a href='https://www.youtube.com/watch?v=XlYQ7UG2TQA'> here </a>
+This repo contains my implementation of center stage feature inspired from apple.
+The original feature can be found <a href='https://www.youtube.com/watch?v=XlYQ7UG2TQA'> here </a>
 
 # Usage
 For using the code you only need 2 things,
